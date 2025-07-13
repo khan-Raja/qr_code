@@ -1,0 +1,30 @@
+body{
+    background-color: #D5E1EF;
+    font-family: cursive;
+    text-align: center;
+}
+.card{
+    position: absolute;
+    margin: auto;
+    padding: 24px;
+    padding-bottom: 50px;
+    inset: 0;
+    height: 470px;
+    width: 100%;
+    max-width: 302px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 2px rgb(181, 179, 179);
+    background-color: white;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+p{
+    font-family: inherit;
+    color: hsl(216, 15%, 48%);
+
+}
+h2{
+    color:hsl(218, 44%, 22%);
+}
